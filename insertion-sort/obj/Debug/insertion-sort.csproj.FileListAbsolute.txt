@@ -1,0 +1,7 @@
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\bin\Debug\insertion-sort.exe.config
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\bin\Debug\insertion-sort.exe
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\bin\Debug\insertion-sort.pdb
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\obj\Debug\insertion-sort.csproj.AssemblyReference.cache
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\obj\Debug\insertion-sort.csproj.CoreCompileInputs.cache
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\obj\Debug\insertion-sort.exe
+C:\Users\misa\source\repos\insertion-sort\insertion-sort\obj\Debug\insertion-sort.pdb
